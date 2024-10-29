@@ -8,7 +8,7 @@ This Weather App allows users to search for current weather information based on
 
 - **Location Search**: Users can enter a city name to fetch weather data.
 - **Current Weather**: Displays the current temperature, weather condition, and high/low temperatures.
-- **7-Day Forecast**: Provides a forecast for the next fifteen days.
+- **15-Day Forecast**: Provides a forecast for the next fifteen days.
 - **Temperature Toggle**: Users can switch between Celsius and Fahrenheit.
 - **Responsive Design**: The layout adapts to different screen sizes.
 
